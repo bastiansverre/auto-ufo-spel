@@ -1,7 +1,6 @@
 # auto-ufo-spel
 
 ```
-
 //beweeg auto 1/variabele = een plekje in het geheugen met een naam//
 float X = 0;
 
